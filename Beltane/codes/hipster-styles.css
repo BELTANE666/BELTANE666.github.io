@@ -414,7 +414,7 @@ strong {
 }
 .header-image {
   position: absolute;
-  top: 0;
+  top: -350px;
   left: 0;
   right: 0;
   bottom: 0;
