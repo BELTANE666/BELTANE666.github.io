@@ -3,6 +3,17 @@ body.effect_blur {
     animation: effectBlur 5s;
 }
 
+.xsscroll::-webkit-scrollbar {
+    width: 6px;
+    height: 8px;
+}
+.xsscroll::-webkit-scrollbar-thumb {
+    background: #404040;
+}
+.xsscroll::-webkit-scrollbar-track {
+    background: #c4c4c4;
+}
+
 @-webkit-keyframes effectBlur {
    0% {
       -webkit-filter: blur(50px);
