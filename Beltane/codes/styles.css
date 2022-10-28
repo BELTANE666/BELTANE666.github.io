@@ -69,3 +69,9 @@ div.containerAudio {
    align-items: center;
    justify-items: center;
 }
+
+iframe.iframeAudio {
+   width: 430px!important;
+   height: 192px!important;
+   overflow: hidden;
+}
