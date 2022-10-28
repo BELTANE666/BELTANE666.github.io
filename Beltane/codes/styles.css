@@ -60,6 +60,7 @@ div.imageFlag {
    align-items: center;
    justify-items: center;
    width: 157px;
+   margin-top: 12px;
 }
 
 div.containerAudio {
