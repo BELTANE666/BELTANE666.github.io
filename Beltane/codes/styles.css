@@ -61,3 +61,11 @@ div.imageFlag {
    justify-items: center;
    width: 157px;
 }
+
+div.containerAudio {
+   display: grid;
+   justify-content: center;
+   align-content: center;
+   align-items: center;
+   justify-items: center;
+}
