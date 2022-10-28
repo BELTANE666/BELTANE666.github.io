@@ -53,6 +53,10 @@ body.effect_blur {
    }
 }
 
+td.tdIMG {
+   position: relative;
+   left: 8px;
+}
 div.imageFlag {
    display: grid;
    justify-content: center;
